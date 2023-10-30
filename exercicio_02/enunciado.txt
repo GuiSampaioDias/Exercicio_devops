@@ -1,0 +1,1 @@
+Criar uma aplicação em node js. Hospedar no github, efetuar pelo menos 3 commits.Criar a imagem no Docker desktop e implementar no docker hub
