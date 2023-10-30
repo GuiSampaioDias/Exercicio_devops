@@ -1,0 +1,1 @@
+Criar uma aplicação em python. Hospedar no github, efetuar pelo menos 3 commits.Criar a imagem no Docker desktop e implementar no docker hub
